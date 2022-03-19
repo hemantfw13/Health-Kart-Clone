@@ -39,7 +39,7 @@ In our website, we tried our best to clone same as original website.</p>
 
 <h2 >Our blog link :</h2>
 <p >
-     <a rel="noreferrer" target="_blank" href="https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1" rel="nofollow">https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1</a>
+     <a rel="noreferrer" target="_blank" href="https://medium.com/@hemantahire002/healthkart-clone-project-3af900ab1da1" rel="nofollow">https://medium.com/@hemantahire002/healthkart-clone-project-3af900ab1da1</a>
 </p>
 
 <h2 >Deploy Link :</h2>
